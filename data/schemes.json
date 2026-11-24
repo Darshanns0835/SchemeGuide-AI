@@ -1,0 +1,242 @@
+[
+  {
+    "id": "SG001",
+    "category": "Discovery",
+    "scheme": "myScheme",
+    "question": "How do I find government schemes for students farmers women or senior citizens?",
+    "answer": "myScheme is a national discovery portal for central and state government schemes. Browse categories or use its eligibility discovery options.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG002",
+    "category": "Discovery",
+    "scheme": "myScheme",
+    "question": "How do I check eligibility for a government scheme?",
+    "answer": "Use myScheme to explore potential matches. Verify the current eligibility rules with the responsible department; a match does not guarantee approval.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG003",
+    "category": "Discovery",
+    "scheme": "myScheme",
+    "question": "How do I apply for a government scheme?",
+    "answer": "Find the scheme on myScheme, read its eligibility and application information, and follow the official application channel listed there.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG004",
+    "category": "Education",
+    "scheme": "myScheme education discovery",
+    "question": "Where can students find scholarships and education schemes?",
+    "answer": "Browse education and learning schemes on myScheme and follow the official links for the relevant scholarship.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG005",
+    "category": "Education",
+    "scheme": "myScheme education discovery",
+    "question": "How can I check scholarship documents and deadlines?",
+    "answer": "Open the relevant scholarship listing and confirm required documents and application dates with the administering authority.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG006",
+    "category": "Education",
+    "scheme": "myScheme education discovery",
+    "question": "Are all students eligible for scholarships?",
+    "answer": "Scholarships have different eligibility conditions. Check the specific scheme rules rather than assuming every student qualifies.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG007",
+    "category": "Agriculture",
+    "scheme": "myScheme agriculture discovery",
+    "question": "Where can farmers find agriculture schemes?",
+    "answer": "Browse agriculture and rural development schemes on myScheme and check the responsible department for current rules.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG008",
+    "category": "Agriculture",
+    "scheme": "myScheme agriculture discovery",
+    "question": "Where can I find information about farmer financial assistance?",
+    "answer": "Search for farmer assistance programmes on myScheme. Confirm the applicable benefits and eligibility with the official scheme authority.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG009",
+    "category": "Agriculture",
+    "scheme": "myScheme agriculture discovery",
+    "question": "How can farmers check application requirements?",
+    "answer": "Read the selected scheme application procedure and document requirements on its official portal.",
+    "source_url": "https://www.myscheme.gov.in/"
+  },
+  {
+    "id": "SG010",
+    "category": "Employment",
+    "scheme": "e-Shram",
+    "question": "What is e-Shram for unorganised workers?",
+    "answer": "e-Shram is a government platform for unorganised workers and provides information about associated social protection schemes.",
+    "source_url": "https://www.eshram.gov.in/Schemes"
+  },
+  {
+    "id": "SG011",
+    "category": "Employment",
+    "scheme": "e-Shram",
+    "question": "What pension schemes are listed for workers?",
+    "answer": "The e-Shram scheme directory includes Pradhan Mantri Shram Yogi Maan-Dhan. Consult the listing and administering authority for current conditions.",
+    "source_url": "https://www.eshram.gov.in/Schemes"
+  },
+  {
+    "id": "SG012",
+    "category": "Employment",
+    "scheme": "e-Shram",
+    "question": "Does e-Shram registration guarantee every welfare benefit?",
+    "answer": "Different schemes have separate eligibility rules. Consult the relevant scheme authority before assuming registration qualifies you for a benefit.",
+    "source_url": "https://www.eshram.gov.in/Schemes"
+  },
+  {
+    "id": "SG013",
+    "category": "Housing",
+    "scheme": "PMAY Urban",
+    "question": "What is Pradhan Mantri Awas Yojana Urban PMAY U?",
+    "answer": "PMAY Urban is a government housing initiative. The Directorate General of Employment lists it among government programmes; consult the housing ministry for current application rules.",
+    "source_url": "https://www.dge.gov.in/schemes_programmes"
+  },
+  {
+    "id": "SG014",
+    "category": "Housing",
+    "scheme": "PMAY Urban",
+    "question": "Where can I learn about urban housing assistance?",
+    "answer": "The government programme directory identifies PMAY Urban and its responsible ministry, the Ministry of Housing and Urban Affairs.",
+    "source_url": "https://www.dge.gov.in/schemes_programmes"
+  },
+  {
+    "id": "SG015",
+    "category": "Housing",
+    "scheme": "PMAY Urban",
+    "question": "Can this chatbot approve my housing application?",
+    "answer": "No. Housing applications must be assessed by the responsible government authority under the applicable programme rules.",
+    "source_url": "https://www.dge.gov.in/schemes_programmes"
+  },
+  {
+    "id": "SG016",
+    "category": "Health",
+    "scheme": "Ayushman Bharat PM-JAY",
+    "question": "What is Ayushman Bharat PMJAY?",
+    "answer": "PM-JAY is a government health assurance programme focused on eligible beneficiaries and hospital care.",
+    "source_url": "https://www.dge.gov.in/schemes_programmes"
+  },
+  {
+    "id": "SG017",
+    "category": "Health",
+    "scheme": "Ayushman Bharat PM-JAY",
+    "question": "Where can I learn about government hospital coverage?",
+    "answer": "The government programme directory identifies Ayushman Bharat PM-JAY as a health assurance scheme. Confirm current coverage and eligibility with its administering authority.",
+    "source_url": "https://www.dge.gov.in/schemes_programmes"
+  },
+  {
+    "id": "SG018",
+    "category": "Health",
+    "scheme": "Ayushman Bharat PM-JAY",
+    "question": "Does PMJAY cover everyone automatically?",
+    "answer": "Do not assume automatic coverage. Verify your eligibility and applicable benefits with the programme authority.",
+    "source_url": "https://www.dge.gov.in/schemes_programmes"
+  },
+  {
+    "id": "SG019",
+    "category": "Digital services",
+    "scheme": "UMANG",
+    "question": "What is UMANG?",
+    "answer": "UMANG provides a shared digital gateway for government services through web and mobile channels.",
+    "source_url": "https://www.umang.gov.in/landing/"
+  },
+  {
+    "id": "SG020",
+    "category": "Digital services",
+    "scheme": "UMANG",
+    "question": "Where can I access government services online in one place?",
+    "answer": "UMANG brings together services from multiple government departments. Search for the required service on its official portal.",
+    "source_url": "https://www.umang.gov.in/landing/"
+  },
+  {
+    "id": "SG021",
+    "category": "Digital services",
+    "scheme": "UMANG",
+    "question": "Can I use UMANG on a mobile phone?",
+    "answer": "UMANG provides mobile and web access channels. Use its official website to find the appropriate access option.",
+    "source_url": "https://www.umang.gov.in/landing/"
+  },
+  {
+    "id": "SG022",
+    "category": "Digital documents",
+    "scheme": "National Portal of India",
+    "question": "Where can I find DigiLocker digital documents?",
+    "answer": "The National Portal of India provides access to DigiLocker, a government digital document service.",
+    "source_url": "https://www.india.gov.in/"
+  },
+  {
+    "id": "SG023",
+    "category": "Digital documents",
+    "scheme": "National Portal of India",
+    "question": "Where can I find passport services?",
+    "answer": "The National Portal of India links to passport services. Follow the official service link for current procedures and fees.",
+    "source_url": "https://www.india.gov.in/"
+  },
+  {
+    "id": "SG024",
+    "category": "Digital documents",
+    "scheme": "National Portal of India",
+    "question": "Where can I find voter registration services?",
+    "answer": "The National Portal of India links to new voter registration services. Follow the official election authority instructions.",
+    "source_url": "https://www.india.gov.in/"
+  },
+  {
+    "id": "SG025",
+    "category": "Karnataka",
+    "scheme": "Seva Sindhu",
+    "question": "What is Seva Sindhu Karnataka?",
+    "answer": "Seva Sindhu is a Karnataka government service delivery platform intended to bring departmental services together.",
+    "source_url": "https://bengaluruurban.nic.in/en/service/seva-sindhu/"
+  },
+  {
+    "id": "SG026",
+    "category": "Karnataka",
+    "scheme": "Seva Sindhu",
+    "question": "Where can Bengaluru residents find Karnataka citizen services?",
+    "answer": "The Bengaluru Urban district website provides information about Seva Sindhu and citizen service delivery channels.",
+    "source_url": "https://bengaluruurban.nic.in/en/service/seva-sindhu/"
+  },
+  {
+    "id": "SG027",
+    "category": "Karnataka",
+    "scheme": "Seva Sindhu",
+    "question": "What are Bangalore One and Karnataka One?",
+    "answer": "These are citizen service delivery channels identified by the Bengaluru Urban district in its Seva Sindhu information.",
+    "source_url": "https://bengaluruurban.nic.in/en/service/seva-sindhu/"
+  },
+  {
+    "id": "SG028",
+    "category": "Public services",
+    "scheme": "National Portal of India",
+    "question": "Where can I find official Indian government information?",
+    "answer": "The National Portal of India provides a gateway to government information and public services.",
+    "source_url": "https://www.india.gov.in/"
+  },
+  {
+    "id": "SG029",
+    "category": "Public services",
+    "scheme": "National Portal of India",
+    "question": "Where can I find citizenship and visa information?",
+    "answer": "The National Portal of India includes citizenship, visa and passport information and links to relevant government services.",
+    "source_url": "https://www.india.gov.in/"
+  },
+  {
+    "id": "SG030",
+    "category": "Public services",
+    "scheme": "National Portal of India",
+    "question": "How can I verify a public service website?",
+    "answer": "Start from the National Portal of India and follow its official service links. Do not share passwords or OTPs with an information chatbot.",
+    "source_url": "https://www.india.gov.in/"
+  }
+]

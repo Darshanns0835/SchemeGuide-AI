@@ -1,0 +1,18 @@
+
+==================================== ERRORS ====================================
+______________________ ERROR collecting tests/test_app.py ______________________
+ImportError while importing test module '/mnt/data/SchemeGuide_AI/tests/test_app.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_app.py:1: in <module>
+    import app as a
+app.py:3: in <module>
+    from flask import Flask, jsonify, render_template, request
+E   ModuleNotFoundError: No module named 'flask'
+=========================== short test summary info ============================
+ERROR tests/test_app.py
+!!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+1 error in 0.90s
